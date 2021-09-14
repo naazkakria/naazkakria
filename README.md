@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks..
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying in National Institute of Technology Jalandhar .
 - 💼 &nbsp; Microsoft student ambassador and DSC core team member .
 - 🌱 &nbsp; Learning more about Cloud Architecture, IOT(internet of things ) and data analysis.
